@@ -15,6 +15,6 @@ public class Test {
 
     @MyAnnotation
     public static void main(@MyAnnotation String[] args) {
-        
+
     }
 }
